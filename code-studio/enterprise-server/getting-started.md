@@ -1,18 +1,18 @@
 ---
-title: Getting started with Syncfusion Code Studio
-description: Set up your account, download the app, and configure your organization to begin using Code Studio for AI-assisted development.
+title: Getting started with Syncfusion Sync fusion Code
+description: Set up your account, download the app, and configure your organization to begin using Sync fusion Code for AI-assisted development.
 platform: syncfusion-code-studio
-keywords: getting started, onboarding, setup, account, dashboard, profile, settings, download, syncfusion, Code Studio
+keywords: getting started, onboarding, setup, account, dashboard, profile, settings, download, syncfusion, Sync fusion Code
 tocname: code-studio-enterprise-server-toc
 ---
 
 # Getting Started
 
-Start using Code Studio
+Start using Sync fusion Code
 
 ### 1. Create and Access Your Account
 
-To start using Code Studio, visit: [Syncfusion Code Studio](https://app.sfcodestudio.com)
+To start using Sync fusion Code, visit: [Syncfusion Sync fusion Code](https://app.sfcodestudio.com)
 
 **Sign-In Options**  
 You can sign in using one of the following methods:
